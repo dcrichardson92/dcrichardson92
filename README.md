@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning an introduction into web devolopment and coding.
 - 💞️ I’m looking to collaborate on projects that interest me, however I need more time to figure this out. 
 - 📫 How to reach me: email at dcrichardson92@gmail.com
-- Here is my family: ![IMG_4194](https://github.com/dcrichardson92/dcrichardson92/assets/146585656/978fa574-f26a-4ee2-a1ac-86310de33b1b)
-![IMG_4579](https://github.com/dcrichardson92/dcrichardson92/assets/146585656/67e7948e-59bf-4344-b69a-e3eaf3fcdd36)
+- Here is my family: ![IMG_4194](https://github.com/dcrichardson92/dcrichardson92/assets/146585656/8fd938e6-e213-4e69-90b0-7e5ee984127f)
 
 
